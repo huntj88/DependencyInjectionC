@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="functionPointers"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="functionPointers">
+				<Option output="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/functionPointers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 functionPointers"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="functionPointers/fast">
+				<Option output="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/functionPointers" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/lib/clang/10.0.0/include"/>
+					<Add directory="/Library/Developer/CommandLineTools/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 functionPointers/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/jhunt/CLionProjects/functionPointerInjection/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/jhunt/CLionProjects/functionPointerInjection/dependencies.c">
+			<Option target="functionPointers"/>
+		</Unit>
+		<Unit filename="/Users/jhunt/CLionProjects/functionPointerInjection/dependencies.h">
+			<Option target="functionPointers"/>
+		</Unit>
+		<Unit filename="/Users/jhunt/CLionProjects/functionPointerInjection/di.c">
+			<Option target="functionPointers"/>
+		</Unit>
+		<Unit filename="/Users/jhunt/CLionProjects/functionPointerInjection/di.h">
+			<Option target="functionPointers"/>
+		</Unit>
+		<Unit filename="/Users/jhunt/CLionProjects/functionPointerInjection/main.c">
+			<Option target="functionPointers"/>
+		</Unit>
+		<Unit filename="/Users/jhunt/CLionProjects/functionPointerInjection/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

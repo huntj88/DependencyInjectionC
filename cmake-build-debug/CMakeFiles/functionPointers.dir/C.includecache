@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/jhunt/CLionProjects/functionPointerInjection/dependencies.c
+
+/Users/jhunt/CLionProjects/functionPointerInjection/dependencies.h
+
+/Users/jhunt/CLionProjects/functionPointerInjection/di.c
+dependencies.h
+/Users/jhunt/CLionProjects/functionPointerInjection/dependencies.h
+
+/Users/jhunt/CLionProjects/functionPointerInjection/di.h
+
+/Users/jhunt/CLionProjects/functionPointerInjection/main.c
+stdio.h
+-
+dependencies.h
+/Users/jhunt/CLionProjects/functionPointerInjection/dependencies.h
+di.h
+/Users/jhunt/CLionProjects/functionPointerInjection/di.h
+
